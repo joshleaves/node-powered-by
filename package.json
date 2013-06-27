@@ -1,0 +1,14 @@
+{
+  "name": "node-powered-by",
+  "version": "0.0.2",
+  "description": "Essential nodejs middleware. Inspired by: https://twitter.com/bos31337/status/238856228451790848",
+  "main": "index.js",
+  "repository": "",
+  "keywords": [
+    "middleware",
+    "joke",
+    "humor"
+  ],
+  "author": "JoshLeaves <josh.guthrie@gmail.com>",
+  "license": "BSD"
+}
